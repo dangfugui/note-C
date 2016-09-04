@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1446028874 source:d:\学习库\代码区\c++文件\c++项目\浪潮算法比赛\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+
+1445957489 source:d:\学习库\代码区\c++文件\c++项目\浪潮算法比赛\test.cpp
+	<iostream>
+
+1446025454 source:d:\学习库\代码区\c++文件\c++项目\浪潮算法比赛\note.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<fstream>
+	<sstream>
+
+1445957349 d:\学习库\代码区\c++文件\c++项目\浪潮算法比赛\test.cpp
+	<iostream>
+
+1446030021 source:d:\学习库\代码区\c++文件\c++项目\浪潮算法比赛\彩票摇奖.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+

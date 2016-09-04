@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446110137 source:d:\files\my code\c++ project\insuper\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<fstream>
+	<sstream>
+

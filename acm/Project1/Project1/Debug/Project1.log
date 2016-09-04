@@ -1,0 +1,11 @@
+﻿生成启动时间为 2015/3/19 21:56:26。
+     1>项目“E:\学习库\代码区\c++文件\acm\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "知识竞赛.c"
+         知识竞赛.c
+     1>e:\学习库\代码区\c++文件\acm\project1\project1\知识竞赛.c(1): fatal error C1083: 无法打开包括文件: “stdafx.h”: No such file or directory
+     1>已完成生成项目“E:\学习库\代码区\c++文件\acm\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.51
